@@ -5,7 +5,8 @@ Firstly, i will be reading all the files in the dataset folder so that I can com
 to create 1 large dataframe that can be explored. This will be achieved by using the OS library.
 
 Secondly, I will then be cleaing the data: formating the columns to ensure that they are using the correct data type
-and also creating new columns that will be needed to explore the dataframe. This will be achieved by using the 
+,creating new columns that will be needed to explore the dataframe and then also ensuring all null values and irrelevant 
+data is removed from the dataframe. This will be achieved by using the 
 pandas library.
 
 Finally, I will aggregate the data in order to summerise it. I will then visualise those aggregations by using a 
